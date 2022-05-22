@@ -23,5 +23,16 @@
     <input type="text" placeholder="Enter in list">
     <button>Click</button>
 </form>
+<br>
+<hr>
+<form action="/S" METHOD="post">
+    <input type="text" name="name" placeholder="Enter in name"><br>
+    <br>
+    <input type="text" name="country" placeholder="Enter in country"><br>
+    <br>
+    <input type="text" name="age" placeholder="Enter in age"><br>
+    <br>
+    <button>Click</button>
+</form>
 </body>
 </html>
