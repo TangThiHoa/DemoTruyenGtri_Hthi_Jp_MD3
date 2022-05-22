@@ -15,5 +15,13 @@
 <br>
 <button>Result</button>
 </form>
+<br>
+<hr>
+<br>
+
+<form action="/L" method="post">
+    <input type="text" placeholder="Enter in list">
+    <button>Click</button>
+</form>
 </body>
 </html>
