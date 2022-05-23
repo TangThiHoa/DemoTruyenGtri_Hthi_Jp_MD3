@@ -33,6 +33,17 @@
     <input type="text" name="age" placeholder="Enter in age"><br>
     <br>
     <button>Click</button>
+    <br>
+    <hr>
+    <h1>Currency conversion </h1>
+
+</form>
+<form action="/C" method="get">
+    <input type="text" name="rate" placeholder="Enter in number"><br>
+    <br>
+    <input type="text" name="usd" placeholder="Enter in number"><br>
+    <br>
+    <button>Converter</button>
 </form>
 </body>
 </html>
